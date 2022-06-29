@@ -1,5 +1,5 @@
 ---
-description: Learn what you need to to get started with Yarn Spinner
+description: Learn what you need to get started with Yarn Spinner
 ---
 
 # ⭐ Start Here
